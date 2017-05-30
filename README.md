@@ -1,5 +1,9 @@
 # python-highcharts [![CircleCI](https://circleci.com/gh/kyper-data/python-highcharts.svg?style=svg)](https://circleci.com/gh/kyper-data/python-highcharts)
 
+## take a look 
+
+https://www.highcharts.com/blog/post/226-get-your-data-ready-for-charts-with-python/
+
 ## License
 
 The python-highcharts wrapper is licensed under the [MIT license](http://opensource.org/licenses/MIT).
