@@ -4,6 +4,8 @@
 
 https://www.highcharts.com/blog/post/226-get-your-data-ready-for-charts-with-python/
 
+https://www.highcharts.com/products/highstock
+
 ## License
 
 The python-highcharts wrapper is licensed under the [MIT license](http://opensource.org/licenses/MIT).
